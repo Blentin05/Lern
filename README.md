@@ -18,7 +18,7 @@ Ich habe gelernt, wie man schaltet und natürlich musste ich dadurch das Zusamme
 
 ## Verifikation
 
-Der Text, den ich geschrieben habe zeigt, dass ich das Schalten beherrsche, weil ich auch weiss wann es vorallem wichtig ist.
+Der Text, den ich geschrieben habe zeigt, dass ich das Schalten beherrsche, weil drin steht wann das Schalten vorallem wichtig ist. 
 
 👍 Ich habe schnell gelernt und konnte das Gelernte meistens auf der Strasse anwenden.; 
 
