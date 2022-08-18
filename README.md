@@ -1,29 +1,26 @@
-# Lern-Bericht
-✍️ Blentin Tosuni
+# Auto fahren
+ Blentin Tosuni
 
-## Einleitung
+# Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+ Ich habe gelernt, wie man Auto fährt.
+ 
+ 
+ Ich habe gelernt, wie man schaltet. 
 
-## Ich habe gelernt Auto zu fahren.
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
 
-## Ich habe gelernt, wie man schaltet. 
+Ich habe gelernt, wie man schaltet und natürlich musste ich dadurch das Zusammenspiel zwischen Kupplung und Getriebe verstehen. Ich darf unter Begleitung fahren, weil ich einen Lernfahrausweis besitze und da mein Vater viel Erfahrung gesammelt hat, was das Autofsahren angeht, kann er mir helfen. Zuerst fuhr ich auf dem Parkplatz an Sonntagen, weil es da keine Autos hatte. Als ich dann merkte, dass ich das Schalten mehr oder weniger beherrschte, traute ich mich auf der Strasse zu fahren. Die nächste Herausforderung, war in Kreiseln richtig reinzufahren, an Abzweigungen zu Schalten und zu fahren und in Parkplätzen zu fahren. Das Schalten ist also sehr wichtig, weil so gut wie alles mit dem Schalten zusammenhängt, wenn man ein Manuellauto fahren will. Ich habe mich auch entschieden einen Schaltwagen zu fahren, weil es viel einfacher ist einen Automatikwagen zu fahren, als einen Schaltwagen.
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-Ich habe gelernt, wie man schaltet und musste dadurch natürlich das Zusammenspiel zwischen Kupplung und Schalten lernen. Ich Fahre unter Begleitung und mein Vater hat viel Erfahrung, was das Autofahren angeht. Dadurch konnte er mir helfen.
+![image](https://user-images.githubusercontent.com/111045987/185335079-1b9f088b-5a4e-4dd0-888f-3eebd75f9664.png)
 
-[!] https://www.t-online.de/auto/technik/id_83941310/gibt-es-bald-keinen-schaltknueppel-im-auto-mehr-.html
+
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Der Text, den ich geschrieben habe zeigt, dass ich das Schalten beherrsche, weil ich auch weiss wann es vorallem wichtig ist.
 
-# Reflektion zum Arbeitsprozess
+👍 Ich habe schnell gelernt und konnte das Gelernte meistens auf der Strasse anwenden.; 
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
-
-👎 und etwas, was nicht gut lief.
-
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+👎 Manche Fehler im Kreisel gemacht. z.B Kupplung gehalten dadurch wurde Auto nicht langsämer. 
+**VBV**: ✍️ Mehr Übung. Ich sollte noch üben, vor Abzweigungen reichtzeitig zu schalten.
